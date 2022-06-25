@@ -1,1 +1,1 @@
-#Skkuding Issue Template
+# Skkuding Issue Template
