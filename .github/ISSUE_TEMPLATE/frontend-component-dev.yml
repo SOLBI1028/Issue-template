@@ -5,6 +5,12 @@ labels: ['feat: frontend']
 body:
   - type: textarea
     attributes:
+      label: 🎨 Component Image
+      description: 구현하려는 component의 Image를 첨부해주세요.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
       label: ✏️ Describe component
       description: 구현하려는 component를 자세하게 설명해주세요.
     validations:
